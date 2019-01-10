@@ -41,7 +41,8 @@ More details on building the final DataSet
   - Height
   - Foot
   - Day Joined the current club
-  - The Day of Contract End
+  - Day of Contract End
+  - Market Value of the Player
   
 3- Instagram and Facebook: for each player, web-scraping of:
   - Number of followers on Instagram 
