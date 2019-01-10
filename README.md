@@ -1,5 +1,6 @@
 # FIFA-MoneyBall
-This Project is about implementing Machine Learning Algorithms to leverage some insights about Football Players
+This Project is about implementing Machine Learning Algorithms to leverage some insights about Football Players.
+Please look at the Jupyer Notebook for more understanding.
 
 This Project uses the final database.
 1) Building the database - 4 Steps:
