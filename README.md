@@ -2,7 +2,7 @@
 This Project is about implementing Machine Learning Algorithms to leverage some insights about Football Players.
 Please look at the Jupyer Notebook for more understanding.
 
-This Project uses the final database.
+This Project uses the final database built through Web-Scraping.
 1) Building the database - 4 Steps:
 - Collecting the EA Sports FIFA 19 Game Statistics of Football Players
 - Web-Scraping the corresponding information on Transfermarkt website
